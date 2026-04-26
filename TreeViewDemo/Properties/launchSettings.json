@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TreeViewDemo (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "TreeViewDemo (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
